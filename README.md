@@ -15,6 +15,8 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a love for
 ## 📈 GitHub Stats:
 ![Sarah's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarahhsallam2&show_icons=true&theme=radical)
 
+![Profile Views](https://img.shields.io/github/profile/views/yourusername?label=Profile%20Views)
+
 ## 🔗 Connect with Me:
 - [LinkedIn](https://www.linkedin.com/in/sara-sallam-89aa20228/)
 
