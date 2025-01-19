@@ -8,6 +8,9 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a love for
 - 💬 Ask me about game development, Unity, full stack development, software engineering, and algorithms.
 - 📫 How to reach me: sarahsallam21@gmail.com.
 
+## 🔗 Connect with Me:
+- [LinkedIn](https://www.linkedin.com/in/sara-sallam-89aa20228/)
+  
 ## 🛠️ Languages and Tools:
 - Programming Languages: JavaScript, C, Java, HTML, React, Python, C#, SQL, C++, TypeScript, CSS, Prolog.
 - Frameworks and Libraries: React, Unity, Microsoft SQL Server, Jupiter Notebook, Java Swing.
@@ -15,7 +18,5 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a love for
 ## 📈 GitHub Stats:
 ![Sarah's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarahhsallam2&show_icons=true&theme=radical)
 
-## 🔗 Connect with Me:
-- [LinkedIn](https://www.linkedin.com/in/sara-sallam-89aa20228/)
 
 Thank you for visiting my profile! Feel free to reach out if you'd like to connect or collaborate on any projects. 😊
